@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="rules">Rules</string>
+    <string name="play">Play</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="home">Home</string>
+    <string name="win">Congratulations, you won!</string>
+    <string name="welcomeMsg">Welcome to Memory Game</string>
+    <string name="resumeMsg">You have a previous unfinished game!</string>
+    <string name="points">Points: </string>
+    <string name="rule1">1. The user is shown 20 tiles. Hidden below these tiles are 10
+                    random images each repeated twice. </string>
+    <string name="rule2">2. The user can touch on any two tiles. Touching on a tile will show the image.</string>
+    <string name="rule3">3. If the two tiles have matching images, they disappear. The user gets a point.</string>
+    <string name="rule4">4. If the two tiles do NOT have matching images,
+                     they flip over to being tiles again.</string>
+    <string name="rule5">5. Match all the 10 images to win (10 points).</string>
+</resources>
